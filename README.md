@@ -17,6 +17,7 @@ O objetivo principal foi aplicar boas práticas de desenvolvimento web, design r
 
 - HTML5
 - CSS3
+- JavaScript
 - Bootstrap 3.4.1
 - Font Awesome 5.10.0
 - Animate.css
